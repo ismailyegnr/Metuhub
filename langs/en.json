@@ -1,0 +1,150 @@
+
+{
+    "title_top" : "Clubs",
+    "title_meet" : "Meetings",
+    "title_etk" : "Events",
+    "title_fav" : "Favorites",
+    "title_set" : "Settings",
+
+
+    "exp_top" : "Clubs and informations",
+    "exp_meet" : "Upcoming meetings",
+    "exp_etk" : "Upcoming club events",
+    "exp_fav" : "Favorites and calendar",
+    "exp_set" : "App and account settings",
+
+
+    "log_in" : "Log In",
+    "online" : "Online",
+
+    
+    "add_soc" : "Add club",
+    "edit_soc" : "Edit club",
+    "soc_off" : "Please sign in to add your club.",
+    "add_soc_exp" : "Please fill the form below to add your student club to Metuhub.",
+    "hint_soc_name" : "Club name",
+    "val_soc_name" : "Club name is required",
+    "hint_soc_member" : "Active member count",
+    "val_soc_member" : "Enter member count",
+    "hint_soc_tell" : "Meeting explanation",
+    "val_soc_tell_non" : "Meeting explanation is required",
+    "val_soc_tell_ins" : "Invalid log in",
+    "hint_soc_etk" : "Club activities",
+    "val_soc_etk_non" : "Club activities is required",
+    "val_soc_etk_ins" : "Invalid log in",
+    "ok_add_soc" : "Thank you. Your club will be added soon",
+    "hint_media_soc" : "Social",
+    "hint_link_soc" : "Link",
+
+
+    "fav_off_soc" : " removed from your favorites.",
+    "fav_on_soc" : " added to your favorites.",
+    "soc_member" : " Active members",
+    "soc_about" : "About",
+    "soc_etk" : "Events",
+    "soc_media" : "Social Media",
+
+
+    "fav_off" : " removed from calendar.",
+    "fav_on" : " added to calendar.",
+    "fav_back" : "Undo",
+    "ok" : "OK",
+    "cancel" : "CANCEL",
+    "go_set" : "Go to settings",
+    "submit_add" : "Add",
+    "submit_edit" : "Edit",
+
+
+    "no_meet" : "There are no meetings for now.",
+    "del_meet" : "Are you sure you want to delete your meeting?",
+    "add_meet" : "Add meeting",
+    "edit_meet" : "Edit meeting",
+    "meet_off" : "You need to sign in to add a meeting.",
+    "add_meet_exp" : "Please fill the form below to add your meeting invitation.",
+    "hint_meet_name" : "Meeting name",
+    "val_meet_name" : "Meeting name is required",
+    "sel_club" : "Select a club",
+    "val_sel_club" : "Choosing a club is required",
+    "hint_meet_tell" : "Meeting explanation",
+    "val_meet_exp" : "Meeting explanation is required",
+    "meet_place" : "Meeting place",
+    "val_meet_place" : "Meeting place is required",
+    "suc_meet" :  "Meeting is succesfully added.",
+
+
+    "details" : "Details",
+    "no_etk" : "There are no events for now.",
+    "del_etk" : "Are you sure you want to delete this activity?",
+    "add_etk" : "Add event",
+    "edit_etk" : "Edit event",
+    "etk_off" : "You need to sign in to add an event.",
+    "add_etk_exp" : "Add an event to invite people to your club event.",
+    "val_etk_name" : "Event name is required",
+    "hint_etk_name" : "Event name",
+    "val_etk_exp" : "Event explanation is required",
+    "hint_etk_exp" : "Event explanation",
+    "val_etk_place" : "Event place is required",
+    "hint_etk_place" : "Event place",
+    "suc_etk" : "Your event has been successfully added.",
+
+
+    "fav_tab" : "Favorites",
+    "cal_tab" : "Calendar",
+    "fav_log" : "Please sign in to add your favorites.",
+    "no_fav" : "You have no favorites yet.",
+    "more_fav" : "More..",
+
+
+    "set_notif" : "Notifications",
+    "set_lang" : "Language",
+    "set_res" : "(Restarts the app)",
+    "log_off" : "Sign out",
+    "sub_log" : "Are you sure you want to log out?",
+
+
+    "fb_exp" : "Please write your shortcomings and suggestions for us to improve Metuhub.",
+    "fb_emp" : "Please write something",
+    "suc_fb" : "Thanks for your feedback.",
+    "send" : "Send",
+
+
+    "log" : "Log In",
+    "sign" : "Sign Up",
+    "val_mail" : "Enter an email",
+    "pw" : "Password",
+    "val_pw" : "Enter a valid password",
+    "log_on" : "Sign In",
+    "inv_mail" : "Invalid email",
+    "no_user" : "No such user found.",
+    "wrong_pw" : "Wrong password",
+    "no_con" : "No connection",
+    "suc_sign" : "Signning up is succesful. Please log in.",
+    "name" : "Name",
+    "val_name" : "Name is required",
+    "s_name" : "Surname",
+    "val_sname" : "Surname is required",
+    "dep" : "Department",
+    "sel_deps" : "Select department",
+    "val_dep" : "Department is required",
+    "un_pw" : "Password should be 6 characters at least",
+    "al_mail" : "Email is already in use",
+
+
+    "photo" : "Edit photo",
+    "user" : "User",
+    "edit_prof" : "Edit profile",
+    "prof" : "My profile",
+    "save" : "Save changes",
+    "search" : "Search...",
+
+    "no_connect" :"No connection",
+    "connected" : "Connected",
+    "retry" : "Retry",
+
+    "sel_them" : "Select Theme",
+    "theme" : "Theme",
+    "light" : "Light",
+    "dark" : "Dark"
+
+    
+}

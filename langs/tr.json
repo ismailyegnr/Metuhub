@@ -1,0 +1,153 @@
+
+{
+    "title_top" : "Topluluklar",
+    "title_meet" : "Tanışma toplantıları",
+    "title_etk" : "Etkinlikler",
+    "title_fav" : "Favorilerim",
+    "title_set" : "Ayarlar",
+
+
+    "exp_top" : "Topluluklar ve bilgileri",
+    "exp_meet" : "Yaklaşan tanışma toplantıları",
+    "exp_etk" : "Yaklaşan topluluk etkinlikleri",
+    "exp_fav" : "Favorilerim ve takvimim",
+    "exp_set" : "Uygulama ve profil ayarlarım",
+
+
+    "log_in" : "Giriş Yap",
+    "online" : "Çevrimiçi",
+
+    
+    "add_soc" : "Topluluk Ekle",
+    "edit_soc" : "Topluluğu düzenle",
+    "soc_off" : "Topluluğunuzu eklemek için giriş yapınız.",
+    "add_soc_exp" : "Topluluğunuzu Metuhub'a eklemek için lütfen formu doldurunuz.",
+    "hint_soc_name" : "Topluluk adı",
+    "val_soc_name" : "Topluluk adı gerekli",
+    "hint_soc_member" : "Aktif üye sayısı",
+    "val_soc_member" : "Üye sayısı giriniz",
+    "hint_soc_tell" : "Topluluk açıklaması",
+    "val_soc_tell_non" : "Topluluk açıklaması gerekli",
+    "val_soc_tell_ins" : "Geçersiz giriş",
+    "hint_soc_etk" : "Topluluk etkinlikleri",
+    "val_soc_etk_non" : "Topluluk etkinliği gerekli",
+    "val_soc_etk_ins" : "Geçersiz giriş",
+    "ok_add_soc" : "Teşekkürler. Topluluğunuz en kısa zamanda eklenecek",
+    "hint_media_soc" : "Sosyal",
+    "hint_link_soc" : "Link",
+
+
+    "fav_off_soc" : " favorilerinden çıkarıldı.",
+    "fav_on_soc" : " favorilerine eklendi.",
+    "soc_member" : " Aktif üye",
+    "soc_about" : "Hakkında",
+    "soc_etk" : "Etkinlikleri",
+    "soc_media" : "Sosyal Medya",
+
+
+    "fav_off" : " takvimden çıkarıldı.",
+    "fav_on" : " takvime eklendi.",
+    "fav_back" : "Geri Al",
+    "ok" : "TAMAM",
+    "cancel" : "İPTAL",
+    "go_set" : "Ayarlara Git",
+    "submit_add" : "Ekle",
+    "submit_edit" : "Düzenle",
+
+
+    "no_meet" : "Şimdilik hiç tanışma toplantısı yok.",
+    "del_meet" : "Toplantıyı silmek istediğinizden emin misiniz?",
+    "add_meet" : "Toplantı Ekle",
+    "edit_meet" : "Toplantı düzenle",
+    "meet_off" : "Bir toplantı eklemek için lütfen giriş yapınız.",
+    "add_meet_exp" : "Topluluk tanışma toplantınıza insanları davet etmek için bir davet ekleyin.",
+    "hint_meet_name" : "Tanışma toplantısı adı",
+    "val_meet_name" : "Toplantı adı gerekli",
+    "sel_club" : "Topluluk seç",
+    "val_sel_club" : "Topluluk seçimi gerekli",
+    "hint_meet_tell" : "Toplantı açıklaması",
+    "val_meet_exp" : "Toplantı açıklaması gerekli",
+    "meet_place" : "Toplantı yeri",
+    "val_meet_place" : "Toplantı yeri gerekli",
+    "suc_meet" :  "Tanışma toplantısı başarıyla eklendi.",
+
+
+    "details" : "Detayları",
+    "no_etk" : "Şimdilik hiç etkinlik yok.",
+    "del_etk" : "Etkinliği silmek istediğinizden emin misiniz?",
+    "add_etk" : "Bir Etkinlik Ekle",
+    "edit_etk" : "Etkinliği düzenle",
+    "etk_off" : "Bir etkinlik eklemek için lütfen giriş yapınız.",
+    "add_etk_exp" : "Topluluk etkinliğinize insanları davet etmek için bir etkinlik daveti ekleyin.",
+    "val_etk_name" : "Etkinlik adı gerekli",
+    "hint_etk_name" : "Etkinlik adı",
+    "val_etk_exp" : "Etkinlik açıklaması gerekli",
+    "hint_etk_exp" : "Etkinlik açıklaması",
+    "val_etk_place" : "Etkinlik yeri gerekli",
+    "hint_etk_place" : "Etkinlik yeri",
+    "suc_etk" : "Etkinliğiniz başarıyla eklendi.",
+
+
+    "fav_tab" : "Favoriler",
+    "cal_tab" : "Takvim",
+    "fav_log" : "Favorilerinizi eklemek için giriş yapınız.",
+    "no_fav" : "Şimdilik hiç favorin yok.",
+    "more_fav" : "Daha fazla",
+
+
+    "set_notif" : "Bildirimler",
+    "set_lang" : "Dil",
+    "set_res" : "(Uygulamayı yeniden başlatır)",
+    "log_off" : "Oturumu kapat",
+    "sub_log" : "Oturumu kapatmak istediğinize emin misiniz?",
+
+
+    "fb_exp" : "Lütfen Metuhub'u geliştirmemiz için gördüğünüz eksiklikleri ve önerilerinizi yazınız.",
+    "fb_emp" : "Lütfen bir şeyler yazınız",
+    "suc_fb" : "Geri bildiriminiz için teşekkür ederiz.",
+    "send" : "Gönder",
+
+
+    "log" : "Giriş",
+    "sign" : "Kaydol",
+    "val_mail" : "Bir email giriniz",
+    "pw" : "Şifre",
+    "val_pw" : "Geçerli bir şifre giriniz",
+    "log_on" : "Oturum Aç",
+    "inv_mail" : "Geçersiz mail",
+    "no_user" : "Böyle bir kullanıcı bulunamadı.",
+    "wrong_pw" : "Yanlış parola",
+    "no_con" : "Bağlantı yok",
+    "suc_sign" : "Kaydolma başarılı. Lütfen giriş yapın.",
+    "name" : "Ad",
+    "val_name" : "Ad gerekli",
+    "s_name" : "Soyad",
+    "val_sname" : "Soyad gerekli",
+    "dep" : "Bölüm",
+    "val_dep" : "Bölüm gerekli",
+    "sel_deps" : "Bölüm seç",
+    "un_pw" : "Şifre en az 6 karakter olmalı",
+    "al_mail" : "Email kullanımda",
+
+
+    "photo" : "Düzenle",
+    "user" : "Kullanıcı",
+    "edit_prof" : "Düzenle",
+    "prof" : "Profilim",
+    "save" : "Değişiklikleri kaydet",
+    "search" : "Ara...",
+
+    "no_connect" :"Bağlantı yok",
+    "connected" : "Bağlandı",
+    "retry" : "Tekrar dene",
+
+
+    "sel_them" : "Tema seç",
+    "theme" : "Tema",
+    "light" : "Açık",
+    "dark" : "Karanlık"
+    
+     
+
+    
+}
